@@ -1,0 +1,1 @@
+java  -Dfile.encoding=US-ASCII -classpath "/Users/sammelnik/Desktop/Sam Melnik Code Examples/Java Example 2:/Users/sammelnik/Desktop/Sam Melnik Code Examples/Java Example 2/aima-core.jar" Driver
