@@ -1,4 +1,3 @@
-package sam;
 
 
 import aima.core.search.framework.GoalTest;

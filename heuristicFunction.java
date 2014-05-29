@@ -1,4 +1,3 @@
-package sam;
 
 import aima.core.search.framework.HeuristicFunction;
 import java.lang.Math;

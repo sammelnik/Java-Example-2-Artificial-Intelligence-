@@ -1,4 +1,4 @@
-package sam;
+
 
 
 import aima.core.agent.Action;
